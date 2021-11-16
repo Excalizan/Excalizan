@@ -1,7 +1,7 @@
 ### Hi I'm Excalizan
 ### Reach me via my [email](https://aydinkement24@gmail.com)
 ## Well looks like GitHub gave me some examples so I'mma use them now...
-# 🔭 I’m currently working on My Discord bot: [EconoBot](no link for now)
+# 🔭 I’m currently working on My Discord bot: [ReBoot](https://dsc.gg/rebot)
 oh frick i gtg now maybe ill continiue later...
 
 
