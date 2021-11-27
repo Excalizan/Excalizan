@@ -1,6 +1,8 @@
 <div align="left">
   <h1>Hello, I'm Excalizan! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 </div>
+
+
 ### Reach me via my [email](https://aydinkement24@gmail.com) or Discord(Excalizan#7330)
 ## Well looks like GitHub gave me some examples so I'mma use them now...
 # 🔭 I’m currently working on My Discord bot: [ReBoot](https://dsc.gg/rebot)
