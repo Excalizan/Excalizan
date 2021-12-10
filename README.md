@@ -3,16 +3,14 @@
 </div>
 
 
-### Reach me via my [email](https://aydinkement24@gmail.com) or Discord(Excalizan#7330)
-## Well looks like GitHub gave me some examples so I'mma use them now...
-# 🔭 I’m currently working on My Discord bot: [ReBoot](https://dsc.gg/rebot)
+### Reach me via my <a href="mailto:aydinkement24@gmail.com">email</a> or Discord(Excalizan#7330)
 
-## About Me� 😳
+<b> 🔭 I’m currently working on My Discord bot: [ReBoot](https://dsc.gg/rebot)<b>
+
+## About Me 😳
 
 - 🏫 I like coding
-
 - 🧍‍♂️ I'm mostly coding web apps and Discord Bots
-
 - 🗣 Pronouns: He/His/Him
 
 ## Skills👨‍💻
@@ -25,5 +23,3 @@
     <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" alt="VS Code" height="40" style="vertical-align:top; margin:4px">
   </p>
 </table>
-
-hope that works...
