@@ -7,7 +7,7 @@
 ## Well looks like GitHub gave me some examples so I'mma use them now...
 # 🔭 I’m currently working on My Discord bot: [ReBoot](https://dsc.gg/rebot)
 
-## About Me� 😳
+## About Me
 
 - 🏫 I like coding
 
@@ -15,7 +15,11 @@
 
 - 🗣 Pronouns: He/His/Him
 
+[![My Github Stats](https://github-readme-stats.vercel.app/api?username=excalizan)](https://github.com/anuraghazra/github-readme-stats)
+
 ## Skills👨‍💻
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=excalizan)](https://github.com/anuraghazra/github-readme-stats)
+
 <table>
   <p align="center">
     <img src="https://img.icons8.com/color/128/000000/python.png" alt="python" width="50" height="50" />
