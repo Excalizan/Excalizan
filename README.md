@@ -11,7 +11,7 @@
 
 - 🏫 I like coding
 
-- 🧍‍♂️ I'm mostly coding web apps and Discord Bots
+- 🧍‍♂️ I'm mostly coding Games and Discord Bots
 
 - 🗣 Pronouns: He/His/Him
 
